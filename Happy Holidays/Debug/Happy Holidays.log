@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HappyHolidays.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UndoRedo.c
+  UI.c
+e:\facultate\sem 2\oop\happy holidays\happy holidays\ui.c(43): warning C4129: '*': unrecognized character escape sequence
+  Repository.c
+  Offer.c
+  Main.c
+  DynamicArray.c
+  Controller.c
+  Generating Code...
+  Happy Holidays.vcxproj -> E:\FACULTATE\SEM 2\OOP\Happy Holidays\Debug\Happy Holidays.exe
